@@ -1,0 +1,6 @@
+names:
+- student
+nc: 1
+path: /content/drive/MyDrive/DIU_Class_Student-2/Class_student_dataset
+train: /content/drive/MyDrive/DIU_Class_Student-2/Class_student_dataset/train/images
+val: /content/drive/MyDrive/DIU_Class_Student-2/Class_student_dataset/val/images
